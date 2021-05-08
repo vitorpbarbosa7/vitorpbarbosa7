@@ -1,6 +1,6 @@
 Olá! bem vindo ao meu github!
 
-Meu nome é Vitor e sou um Cientista de Dados.
+Meu nome é Vitor e sou Cientista de Dados.
 
 Já tive experiência em pequenos projetos de Análise de risco de crédito, de análise de fraudes em transações, análise de sentimentos em redes sociais e sistemas de recomendação. 
 
