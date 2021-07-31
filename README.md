@@ -7,3 +7,6 @@ Já tive experiência em pequenos projetos de Análise de risco de crédito, de 
 Atualmente estou cursando a Formação Cientista de Dados da Data Science Academy e estou no curso de algoritmos de Machine Learning.
 
 Em minhas análises, utilizo R ou Python para análise de dados e construção de gráficos e principalmente Python para construção de modelos de aprendizado de máquina.
+
+https://github-readme-stats.vercel.app/api?username=vitorpbarbosa7
+
