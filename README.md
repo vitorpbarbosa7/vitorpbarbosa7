@@ -8,5 +8,8 @@ Atualmente estou cursando a Formação Cientista de Dados da Data Science Academ
 
 Em minhas análises, utilizo R ou Python para análise de dados e construção de gráficos e principalmente Python para construção de modelos de aprendizado de máquina.
 
-https://github-readme-stats.vercel.app/api?username=vitorpbarbosa7
+<div>
+[![vitorpbarbosa7's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorpbarbosa7)](https://github.com/vitorpbarbosa7/github-readme-stats)
+</div>
+
 
