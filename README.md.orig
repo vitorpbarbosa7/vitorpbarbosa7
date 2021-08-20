@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Olá! bem vindo meu github!
 
 Meu nome é Vitor e sou um cientista de dados.
@@ -18,5 +19,16 @@ Meu nome é Vitor e sou um cientista de dados.
   <a href = "mailto:vitorpbarbosa7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorpbarbosa7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+=======
+Olá! bem vindo ao meu github!
 
-![](https://komarev.com/ghpvc/?username=vitorpbarbosa7)
+Meu nome é Vitor e sou Cientista de Dados.
+
+Já tive experiência em pequenos projetos de Análise de risco de crédito, de análise de fraudes em transações, análise de sentimentos em redes sociais e sistemas de recomendação. 
+
+Atualmente estou cursando a Formação Cientista de Dados da Data Science Academy e estou no curso de algoritmos de Machine Learning.
+
+Em minhas análises, utilizo R ou Python para análise de dados e construção de gráficos e principalmente Python para construção de modelos de aprendizado de máquina.
+
+
+>>>>>>> 3a62e7bb1d3c468042cf8becefa349a10862b810
