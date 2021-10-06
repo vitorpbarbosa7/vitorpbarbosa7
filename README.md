@@ -1,6 +1,6 @@
 Olá! bem vindo meu github!
 
-Meu nome é Vitor e sou um cientista de dados.
+Meu nome é Vitor e sou Cientista de Dados!
 
  <div>
   <a href="https://github.com/vitorpbarbosa7">
