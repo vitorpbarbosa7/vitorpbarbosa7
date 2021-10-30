@@ -6,7 +6,7 @@ Meu nome é Vitor e sou Cientista de Dados!
   <a href="https://github.com/vitorpbarbosa7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpbarbosa7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <br>
-      <img height="400em" width = "800em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=vitorpbarbosa7&langs_count=10&theme=dracula&hide=sas"/>
+      <img height="400em" width = "800em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=vitorpbarbosa7&langs_count=10&theme=dracula"/>
 
 </div>
 <br>
