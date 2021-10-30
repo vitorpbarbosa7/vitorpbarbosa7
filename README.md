@@ -3,7 +3,7 @@ Olá! bem vindo meu github!
 Meu nome é Vitor e sou Cientista de Dados!
 
  <div>
-   <img alignt = 'center' height="400em" width = "800em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=vitorpbarbosa7&langs_count=10&theme=dracula&hide=sas"/>
+   <img alignt = 'center' height="400em" width = "800em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=vitorpbarbosa7&langs_count=10&theme=dracula"/>
 </div>
 <br>
 <div>
