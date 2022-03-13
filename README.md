@@ -18,3 +18,6 @@ Meu nome é Vitor e sou Cientista de Dados!
 </div>
 
 ![](https://komarev.com/ghpvc/?username=vitorpbarbosa7)
+
+StackMuncher:
+https://stackmuncher.com/vitorpbarbosa7
