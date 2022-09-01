@@ -6,4 +6,4 @@ Meu nome é Vitor e sou Cientista de Dados!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpbarbosa7&hide=jupyter%20notebook,roff,html)](https://github.com/vitorpbarbosa7/github-readme-stats)
 
-_______
+________
